@@ -1,0 +1,17 @@
+$color-primary: #22c55e;
+
+.hello-world-button {
+  color: #fafafa;
+  background-color: #71717a;
+  border: 1px solid #52525b;
+  padding: 0.5rem 1rem;
+  border-radius: 1rem;
+  cursor: pointer;
+}
+
+.hello-world-text {
+  color: #fff;
+  background-color: $color-primary;
+  padding: 1rem;
+  border-radius: 1rem;
+}

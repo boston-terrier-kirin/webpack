@@ -24,6 +24,7 @@ module.exports = {
     },
   },
   module: {
+    // jsで何をimportするのかを記載する。
     rules: [
       {
         test: /\.(png|jpg|jpeg|gif)$/,

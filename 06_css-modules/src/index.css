@@ -1,0 +1,14 @@
+.header {
+  color: blue;
+}
+
+.button {
+  background-color: rosybrown;
+  color: #fff;
+}
+
+:global(.btn) {
+  border: none;
+  border-radius: 50px;
+  padding: 0.5rem 1rem;
+}
